@@ -10,7 +10,7 @@ Ver como funciona a ver que tal va
 ## Resultado de analisis
 1. Aumento estacional de productos de verano
  - Ventas de productos, de varias cosas, todo fue bueno
-
+👉 holi
 2.-Bajo rendimiento en la categoria electronica
  - categoria ha experimentado una venta buena
 
