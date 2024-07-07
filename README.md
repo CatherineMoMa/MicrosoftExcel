@@ -16,3 +16,6 @@ Ver como funciona a ver que tal va
 
 
 ![campo-flores-amarillas-montanas-cielo-al-atardecer_104337-5363](https://github.com/CatherineMoMa/MicrosoftExcel/assets/174287659/4296bf07-ab1e-45db-b87b-64bfca6a265f)
+
+## Codigo utilizado en el analisis 
+``` SELECT + FROM TABLE ```
